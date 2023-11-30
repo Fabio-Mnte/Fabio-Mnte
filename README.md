@@ -1,9 +1,9 @@
 ### Opa! Oi, sou Fábio Monteiro
 
 
-- 🔭 Estou ainda no começo do curso de BCC
-- 🌱 Estou atualmente aprendendo algumas linguagens
-- 📫 Pode me contactar pelo email: fabio.mnte@gmail.com ou Discord Rescy#7799
+- 🔭 4º semestre em Ciência da computação no Cesupa
+- 🌱 Estou atualmente aprendendo algumas linguagens 
+- 📫 Pode me contactar pelo email: fabio.mnte@gmail.com ou Discord rescy
 ##
 <div align="center">
   <a href="https://github.com/">
