@@ -1,7 +1,7 @@
 ### Opa! Oi, sou Fábio Monteiro
 
 
-- 🔭 4º semestre em Ciência da computação no Cesupa
+- 🔭 5º semestre em Ciência da computação no Cesupa
 - 🌱 Estou atualmente aprendendo algumas linguagens 
 - 📫 Pode me contactar pelo email: fabio.mnte@gmail.com ou Discord rescy
 ##
