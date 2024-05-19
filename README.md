@@ -2,7 +2,6 @@
 
 
 - 🔭 5º semestre em Ciência da computação no Cesupa
-- 🌱 Estou atualmente aprendendo algumas linguagens 
 - 📫 Pode me contactar pelo email: fabio.mnte@gmail.com ou Discord rescy
 ##
 <div align="center">
